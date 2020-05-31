@@ -16,6 +16,6 @@ table='table' #name of table you want to edit
 ```
 to fit your needs. Then just `python normalizer.py` in a terminal of your choice, and it'll do its "magic".
 
-#Other databases
+# Other databases
 
 Would this work for other databases? Probably, as long as it has an asynchronous library. Install the library of your choice, and adjust the connection creation and data fetching / updating to fit your library.
