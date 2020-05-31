@@ -14,7 +14,7 @@ to_normalize='title' #name of column you want to normalize/edit
 prim='prim' #name of column with a serial
 table='table' #name of table you want to edit
 ```
-to fit your needs. Then just `python normalizer.py` in a terminal of your choice, and it does its "magic".
+to fit your needs. Then just `python normalizer.py` in a terminal of your choice, and it'll do its "magic".
 
 #Other databases
 
